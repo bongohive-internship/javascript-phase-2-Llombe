@@ -29,7 +29,7 @@ if  (y.length == 0) {
     alert("Please Type in Your Last name");
     submitOK = "false";
   }
-    
+  console.log(greet());
 }
         </script>
     </body>
